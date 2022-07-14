@@ -13,3 +13,4 @@ The **PedSCAtlas** was developed by the [Bhasin Systems Biomedicine Lab at Emory
 
 You can learn more in the [user guide](https://github.com/bhasin-lab/PedSCAtlas/wiki) and our 2021 *blood* [asbtract](https://ashpublications.org/blood/article/138/Supplement%201/3488/479636/Pediatric-Single-Cell-Cancer-Atlas-An-Integrative) presented at the ASH conference, *Pediatric Single Cell Cancer Atlas: An Integrative Web-Based Resource for Single Cell Transcriptome Data from Pediatric Leukemias*.
 
+<img src="https://github.com/bhasin-lab/PedSCAtlas/blob/71edf962a9fa0353bedf5ec0f2a9853b342aa856/github_screenshot.png" width="1000">
