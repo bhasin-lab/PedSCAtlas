@@ -1,7 +1,7 @@
 # PedSCAtlas
 Welcome to the Github Page for the **Ped**iatric **S**ingle **C**ell Cancer **Atlas** (PedSCAtlas)!
 
-*--add logo here--*
+<img src="https://github.com/bhasin-lab/PedSCAtlas/blob/a57553f1627754653f8447d93788ba4e7a2c3132/PedSCAtlas_logo.png" width="200">
 
 Please post any issues or questions in the [Issues](https://github.com/bhasin-lab/PedSCAtlas/issues) section, and see the [wiki](https://github.com/bhasin-lab/PedSCAtlas/wiki) page for a detailed user guide for the online atlas.
 
