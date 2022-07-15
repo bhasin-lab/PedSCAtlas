@@ -1,7 +1,7 @@
 # PedSCAtlas
 Welcome to the Github Page for the **Ped**iatric **S**ingle **C**ell Cancer **Atlas** (PedSCAtlas)!
 
-<img src="https://github.com/bhasin-lab/PedSCAtlas/blob/a57553f1627754653f8447d93788ba4e7a2c3132/PedSCAtlas_logo.png" width="200">
+<img src="https://github.com/bhasin-lab/PedSCAtlas/blob/4f949284e4cf24431fd2187679138870c99cad9e/www/PedSCAtlas_logo.png" width="200">
 
 Please post any issues or questions in the [Issues](https://github.com/bhasin-lab/PedSCAtlas/issues) section, and see the [wiki](https://github.com/bhasin-lab/PedSCAtlas/wiki) page for a detailed user guide for the online atlas.
 
@@ -13,4 +13,4 @@ The **PedSCAtlas** was developed by the [Bhasin Systems Biomedicine Lab at Emory
 
 You can learn more about the datasets included in the **PedSCAtlas** in the [home page](https://github.com/bhasin-lab/PedSCAtlas/wiki/Description) and learn how to use the tool in the [user guide](https://github.com/bhasin-lab/PedSCAtlas/wiki/User-Guide) of the wiki.
 
-<img src="https://github.com/bhasin-lab/PedSCAtlas/blob/71edf962a9fa0353bedf5ec0f2a9853b342aa856/github_screenshot.png" width="1000">
+<img src="https://github.com/bhasin-lab/PedSCAtlas/blob/4f949284e4cf24431fd2187679138870c99cad9e/www/github_screenshot.png" width="1000">
