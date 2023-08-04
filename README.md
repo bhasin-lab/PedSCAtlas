@@ -14,7 +14,3 @@ The **PedSCAtlas** was developed by the [Bhasin Systems Biomedicine Lab at Emory
 You can learn more about the datasets included in the **PedSCAtlas** in the [home page](https://github.com/bhasin-lab/PedSCAtlas/wiki/Description) and learn how to use the tool in the [user guide](https://github.com/bhasin-lab/PedSCAtlas/wiki/User-Guide) of the wiki.
 
 <img src="https://github.com/bhasin-lab/PedSCAtlas/blob/f751b8283dae2dcfd298bcbc73969c9f9e066283/github_files/github_screenshot.png" width="1000">
-
-## Repository
-
-You can find the app.R and associated scripts needed to run and host the online version of the **PedSCAtlas** in the [app](https://github.com/bhasin-lab/PedSCAtlas/tree/main/app) folder.
