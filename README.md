@@ -53,7 +53,28 @@ Finally, through the ***SINGLE-CELL GENE EXPRESSION IN HEALTHY TISSUE*** panel, 
 
 ### 2. Differential Expression Module
 
+In our upcoming publication, multiple differential expression (DE) tests were performed to identify a pan-leukemia signature. We compare malignant (blast) leukemia cells with healthy BM cells in each leukemia type, along with performing a similar comparison using the TARGET-AML, TARGET-ALL-P2, and TARGET-ALL-P3 Bulk RNA-seq datasets from the GDC. 
+
+On the *DE* page, you are able to sort through the results of these different tests. 
+
+See below for a description of the DE methodology:
+- SC - *Seurat's* `FindMarkers` was used to identify over-expressed (log2FC>0.25, adjusted p-value < 0.05) in a leukemia type's (e.g. AML) blast cells when compared to healthy BM cells
+- Bulk -  *edgeR's* `lmfit`, `makeContrasts`, and `eBayes` functions were used to compare *primary BM* from a leukemia subtype and *normal BM* to identify over-expressed genes.
+- When calculating the negative log10 p-value (NLP), adjustments had to be made due to some adjusted p-values being reported as zero. In these cases, the minimum non-zero value was used for the NLP.
+
+*Note*: We will have a complete, thorough description of the methodlogy in our upcoming paper.
+
+In the ***CHOOSE A DISEASE TYPE*** panel, select a leukemia type and DE parameters. This will update the corresponding table in the ***DEGS*** panel and the plot in the ***VOLCANO PLOT*** panel according to your parameters.
+
+Below is a volcano plot from the AML Bulk DE results. On DE page, you can hover over points to view gene names and specific metrics.
+
+<img src="github_files/aml_volcano.png" width="1000">
+
 ### 3. Marker Testing Module
+
+The *PedSCAtlas* contains a unique feature that allows users to test their genes of interest as potential markers of a leukemia subtype. After inputting a gene and leukemia type of interest, the *MARKER TESTING* module page will update three panels with different metrics that assess the biomarker potential of a gene.
+
+
 
 ## Cite Us
 
