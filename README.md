@@ -1,8 +1,6 @@
 # PedSCAtlas
 Welcome to the Github Page for the **Ped**iatric **S**ingle **C**ell Cancer **Atlas** (PedSCAtlas)!
 
-<img src="github_files/PedSCAtlas_logo.png" width="200">
-
 Please post any issues or questions in the [Issues](https://github.com/bhasin-lab/PedSCAtlas/issues) section.
 
 You can visit the **PedSCAtlas** and start your analysis at this link: [https://bhasinlab.bmi.emory.edu/PediatricSC/](https://bhasinlab.bmi.emory.edu/PediatricSCAtlas/)
