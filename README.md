@@ -74,7 +74,15 @@ Below is a volcano plot from the AML Bulk DE results. On DE page, you can hover 
 
 The *PedSCAtlas* contains a unique feature that allows users to test their genes of interest as potential markers of a leukemia subtype. After inputting a gene and leukemia type of interest, the *MARKER TESTING* module page will update three panels with different metrics that assess the biomarker potential of a gene.
 
+The first panel, ***DIFFERENTIAL EXPRESSION TESTING*** reports the DE results for the chosen gene, similar to the results presented in the *DE* page.
 
+The second panel, ***RANDOM FOREST CLASSIFIER*** generates a *confusion matrix* and a *testing summary* for the random forest classifier trained and tested based on expression of the chosen gene to classify cells as blast or healthy. The chosen leukemia type cells and cells from healthy donors are pulled from the over 230k cell Acute Leukemia dataset. These cells are sorted into "blast" and "healthy cell" classes. A 70/30 training/test split is used to separate the data into a training and testing pool. 
+
+*Note*: the training and testing sets are randomly assigned during each model formation; therefore, the results will change each time the application parameters are adjusted or the page is refreshed.
+
+The figure belows shows the testing results for a classifer trained to differentiate T/My MPAL blasts from healthy cells based on only *PTEN* expression.
+
+<img src="github_files/rf_results.png" width="1000">
 
 ## Cite Us
 
