@@ -1,4 +1,4 @@
-# PedSCAtlas
+# PedSCAtlas [![zenodo img](github_files/zenodo.14974956.svg)](https://doi.org/10.5281/zenodo.14974956)
 Welcome to the Github Page for the **Ped**iatric **S**ingle **C**ell Cancer **Atlas** (PedSCAtlas)!
 
 Please post any issues or questions in the [Issues](https://github.com/bhasin-lab/PedSCAtlas/issues) section.
