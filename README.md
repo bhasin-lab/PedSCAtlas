@@ -84,8 +84,9 @@ The figure belows shows the testing results for a classifer trained to different
 
 ## Cite Us
 
-If you utilize our tool, please cite us! You can link to the tool's home page and cite our *Blood* abstract, from the American Society of Hematology Conference (2022). A full manuscript is currently under review. 
+If you utilize our tool, please [cite](https://www.nature.com/articles/s41467-025-59362-5#citeas) our 2025 *Nature Communications* publication!
 
-*Note*: our web page link has changed since the 2022 abstract.
+> Mumme, H.L., Huang, C., Ohlstrom, D. et al. Identification of leukemia-enriched signature through the development of a comprehensive pediatric single-cell atlas. Nat Commun 16, 4114 (2025). https://doi.org/10.1038/s41467-025-59362-5
 
-> Hope L Mumme, Swati S Bhasin, Mariam Nawaz, Beena E Thomas, Chenbin Huang, Deborah DeRyckere, Sharon M. Castellino, Daniel S. Wechsler, Sunil S. Raikar, Christopher C. Porter, Douglas K Graham, Manoj Bhasin; A  Single Cell Atlas and Interactive Web-Resource of Pediatric Cancers and Healthy Bone Marrow. Blood 2022; 140 (Supplement 1): 2278–2279. doi: https://doi.org/10.1182/blood-2022-169153
+
+
